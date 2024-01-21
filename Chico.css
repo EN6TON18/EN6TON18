@@ -1,0 +1,155 @@
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 500,
+    'GRAD' 0,
+    'opsz' 24,
+    display inline;
+  }
+  .material-symbols-outlined::selection{
+      color:rgb(89,255,71);
+      background-color:black;
+  }
+  h1::selection{
+      color:rgb(89,255,71);
+      background-color:black;
+  }
+  h4::selection{
+      color:rgb(89,255,71);
+      background-color:black;
+  }
+  th::selection{
+      color:rgb(89,255,71);
+      background-color:black;
+  }
+  td::selection{
+      color:rgb(89,255,71);
+      background-color:black;
+  }
+  i::selection{
+      color:rgb(89,255,71);
+      background-color:black;
+  }
+  b::selection{
+      color:rgb(89,255,71);
+      background-color:black;
+  }
+  button::selection{
+      color:rgb(89,255,71);
+      background-color:black;
+  }
+  a{
+      color:#c41400;text-decoration:none;
+  }
+  a:hover{
+      color:#56f5ef;
+  }
+  a::selection{
+      color:rgb(89,255,71);
+      background-color:black;
+  }
+  label::selection{
+      color:rgb(89,255,71);
+      background-color:black;
+  }
+  input::selection{
+      color:rgb(89,255,71);
+      background-color:black;
+  }
+  #body{
+      background-color:#121217;
+  }
+  #lines{
+      color:#ebedf0;font-family:Lato;
+  }
+  #button1{
+      width:100px ;
+      height:25px ;
+      background-color:grey;color:#b80d0d;
+      border-radius:10px; border-color:#000000; border-width:3px;
+      margin-left:30px ;
+      font-family:Lato;font-weight:bold;
+  }
+  #button1:hover{
+      width:110px ;
+      height:30px ;
+      background-color:#752020;
+      border-radius:50px;
+  }
+  #button1:active{
+      width:110px ;
+      height:30px ;
+      background-color:#327520;
+      border-radius:50px;
+  }
+  #button2{
+      width:75px ;
+      height:25px ;
+      background-color:grey;color:#b80d0d;
+      border-radius:10px; border-color:#000000; border-width:3px;
+      margin-top:10px;margin-left:20px;
+      font-family:Lato;font-weight:bold;
+  }
+  #button2:hover{
+      width:75px ;
+      height:30px ;
+      background-color:#752020;
+      border-radius:50px;
+  }
+  #button2:active{
+      width:75px ;
+      height:30px ;
+      background-color:#327520;
+      border-radius:50px;
+  }
+  #video1{
+      width:390px;
+      margin-top:25px;
+      margin-right:auto;
+  }
+  #table1{
+      margin-top:50px;
+      font-family:Lato;
+  }
+  #table2{
+      font-family:Lato;
+  }
+  #table3{
+      font-family:Lato;
+  }
+  #dick{
+      margin-top:50px;margin-right:auto;
+  }
+  #dick1{
+      color:#ebedf0;
+      font-family:Lato;font-size:17px;font-weight:bold;
+  }
+  #dick2{
+      color:#ebedf0;
+      font-family:Lato;font-size:17px;font-weight:bold;
+  }
+  #lenght{
+      background-color:#252436;color:#ebedf0;
+      border-radius:20px;border-color:#000000;border-width:3px;
+      font-family:Lato;
+  }
+  #r{
+      background-color:#252436;color:#ebedf0;
+      border-radius:20px;border-color:#000000;border-width:3px;
+      font-family:Lato;
+  }
+  #box{
+      width:200px;
+      height:200px;
+      background-color:#752020;background-image:url(audios/giga.jpg);background-repeat:no-repeat;
+      float:right;
+      position:sticky;
+      bottom:0px;
+      border-radius:10px;
+  }
+  #box:hover{
+      background-size:cover;
+      width:250px;
+      height:250px;
+      border: 3px solid;
+  }
